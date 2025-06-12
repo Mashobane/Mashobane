@@ -1,4 +1,4 @@
-## Hello, I am Ntokozo Khumalo from Johannesburg in South Africa. I am passionate about data analytics and digital innovation.
+# Hello, I am Ntokozo Khumalo from Johannesburg in South Africa. I am passionate about data analytics and digital innovation.
 
 <!--
 **Mashobane/Mashobane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
